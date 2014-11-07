@@ -6,10 +6,12 @@ There are some keyboard shortcuts that Mac should have that they don't by defaul
 Install
 =======
 
-1. Open the BetterTouchTool interface.
-2. In the lower left corner of the interface, look for "Presets".
-3. Click on the "Import" button.
-4. Select ```btt-productivity-shortcuts``` from wherever you clone this repo.
+1. Download this repo: ```git clone https://github.com/curtjen/btt-productivity-shortcuts-file.git```
+2. Open the BetterTouchTool interface.
+3. In the lower left corner of the interface, look for "Presets".
+4. Click on the "Import" button.
+5. Select ```btt-productivity-shortcuts``` from wherever you clone this repo.
+6. Restart BetterTouchTool.
 
 
 List of Shortcuts and actions
